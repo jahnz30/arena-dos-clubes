@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Arena dos Clubes — Estatísticas</title>
+<meta name="description" content="Estatísticas oficiais da Arena dos Clubes: títulos, kills, carrascos, vítimas favoritas e confronto direto.">
+<style>
+:root{color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:#07101a;color:#eef5fc;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.wrap{max-width:1100px;margin:auto;padding:16px}
+.hero,.card{background:#0d1825;border:1px solid #263a50;border-radius:18px;padding:18px;margin-bottom:14px}
+.hero h1{margin:0;color:#f6c445;font-size:clamp(28px,6vw,48px)}
+.muted{color:#9fb2c8}
+.tabs{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:12px}
+button{background:#142236;color:#fff;border:1px solid #36516d;border-radius:10px;padding:10px 13px;cursor:pointer;font-weight:800}
+button.active{background:#2a3e57;border-color:#6f96bf}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:9px}
+.k{background:#09131f;border:1px solid #203449;border-radius:14px;padding:12px}
+.k b{display:block;font-size:28px;margin-top:4px}
+select{width:100%;background:#09131f;color:#fff;border:1px solid #36516d;border-radius:10px;padding:10px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+table{width:100%;border-collapse:collapse}
+td,th{padding:9px;border-bottom:1px solid #1d2c3c;text-align:left}
+th{color:#f6c445}
+.pill{display:inline-block;padding:6px 9px;border-radius:999px;background:#15273b;color:#bcd0e6;font-size:12px;font-weight:800}
+@media(max-width:650px){.row{grid-template-columns:1fr}.wrap{padding:10px}.hero,.card{padding:14px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero">
+    <span class="pill">ARENA DOS CLUBES</span>
+    <h1>Estatísticas Oficiais</h1>
+    <div class="muted" id="updated">Carregando dados...</div>
+  </div>
+
+  <div class="card">
+    <div class="tabs">
+      <button class="active" data-view="clube">🔎 Clube</button>
+      <button data-view="confronto">⚔️ Confronto</button>
+      <button data-view="rank">🏆 Rankings</button>
+      <button data-view="hist">📚 Batalhas</button>
+    </div>
+
+    <section id="clube">
+      <select id="clubSel"></select>
+      <div id="clubCard" style="margin-top:12px"></div>
+    </section>
+
+    <section id="confronto" hidden>
+      <div class="row">
+        <select id="aSel"></select>
+        <select id="bSel"></select>
+      </div>
+      <div id="hCard" style="margin-top:12px"></div>
+    </section>
+
+    <section id="rank" hidden>
+      <div class="row">
+        <div><h3>🏆 Top títulos</h3><div id="rWins"></div></div>
+        <div><h3>⚔️ Top kills</h3><div id="rKills"></div></div>
+      </div>
+    </section>
+
+    <section id="hist" hidden>
+      <h3>Últimas batalhas</h3>
+      <div id="histTable"></div>
+    </section>
+  </div>
+</div>
+
+<script>
+let D=null, clubs=[], stats={}, h2h={}, log=[];
+const byId=id=>clubs.find(c=>c.id===id);
+const cnt=(a,b)=>Number(h2h[a+'>'+b]||0);
+const st=c=>stats[c.id]||{battles:0,wins:0,seconds:0,thirds:0,kills:0,bestKills:0};
+function nem(cid){let x=clubs.filter(c=>c.id!==cid).map(c=>({c,n:cnt(c.id,cid)})).sort((a,b)=>b.n-a.n);return x[0]?.n?x[0]:null}
+function fav(cid){let x=clubs.filter(c=>c.id!==cid).map(c=>({c,n:cnt(cid,c.id)})).sort((a,b)=>b.n-a.n);return x[0]?.n?x[0]:null}
+function opts(){return clubs.slice().sort((a,b)=>a.display.localeCompare(b.display,'pt-BR')).map(c=>`<option value="${c.id}">${c.display}</option>`).join('')}
+function club(){
+  let c=byId(clubSel.value); if(!c)return;
+  let s=st(c),n=nem(c.id),f=fav(c.id);
+  clubCard.innerHTML=`<h2>${c.display}</h2>
+  <div class="grid">
+    <div class="k">Batalhas<b>${s.battles}</b></div>
+    <div class="k">Títulos<b>${s.wins}</b></div>
+    <div class="k">Kills<b>${s.kills}</b></div>
+    <div class="k">Pódios<b>${s.wins+s.seconds+s.thirds}</b></div>
+  </div>
+  <p>🥈 Vices: <b>${s.seconds}</b></p>
+  <p>🥉 Terceiros: <b>${s.thirds}</b></p>
+  <p>🔥 Recorde de kills: <b>${s.bestKills}</b></p>
+  <p>💀 Carrasco: <b>${n?n.c.display+' ('+n.n+'x)':'—'}</b></p>
+  <p>🎯 Vítima favorita: <b>${f?f.c.display+' ('+f.n+'x)':'—'}</b></p>`;
+}
+function head(){
+  let a=byId(aSel.value),b=byId(bSel.value); if(!a||!b)return;
+  if(a.id===b.id){hCard.innerHTML='Escolha clubes diferentes.';return}
+  let ab=cnt(a.id,b.id),ba=cnt(b.id,a.id);
+  let last=log.find(e=>(e.killerId===a.id&&e.victimId===b.id)||(e.killerId===b.id&&e.victimId===a.id));
+  hCard.innerHTML=`<h2>${a.display} × ${b.display}</h2>
+  <div class="grid">
+    <div class="k">${a.display} eliminou<b>${ab}</b></div>
+    <div class="k">${b.display} eliminou<b>${ba}</b></div>
+    <div class="k">Total direto<b>${ab+ba}</b></div>
+  </div>
+  <p>Último confronto: <b>${last?`Batalha #${last.battleNo}: ${byId(last.killerId).display} eliminou ${byId(last.victimId).display}`:'—'}</b></p>`;
+}
+function tbl(arr,val){return '<table>'+arr.map((x,i)=>`<tr><td>${i+1}. ${x.c.display}</td><td><b>${val(x.s)}</b></td></tr>`).join('')+'</table>'}
+function ranks(){
+  let a=clubs.map(c=>({c,s:st(c)}));
+  rWins.innerHTML=tbl(a.slice().sort((x,y)=>y.s.wins-x.s.wins||y.s.kills-x.s.kills).slice(0,20),s=>s.wins+' 🏆');
+  rKills.innerHTML=tbl(a.slice().sort((x,y)=>y.s.kills-x.s.kills||y.s.wins-x.s.wins).slice(0,20),s=>s.kills+' ⚔️');
+}
+function hist(){
+  if(!D.history.length){histTable.innerHTML='<p class="muted">A primeira batalha oficial ainda não foi registrada.</p>';return}
+  histTable.innerHTML='<table><tr><th>#</th><th>Campeão</th><th>Vice</th><th>Top Killer</th></tr>'+
+    D.history.slice(0,50).map(h=>`<tr><td>${h.battleNo}</td><td>${h.champion}-${h.championState||''}</td><td>${h.second||'—'}-${h.secondState||''}</td><td>${h.topKiller||'—'} (${h.topKillerKills||0})</td></tr>`).join('')+'</table>';
+}
+function show(id){
+  ['clube','confronto','rank','hist'].forEach(x=>document.getElementById(x).hidden=x!==id);
+  document.querySelectorAll('[data-view]').forEach(b=>b.classList.toggle('active',b.dataset.view===id));
+}
+async function load(){
+  const r=await fetch('dados.json?ts='+Date.now(),{cache:'no-store'});
+  D=await r.json(); clubs=D.clubs||[]; stats=D.stats||{}; h2h=D.h2h||{}; log=D.eliminationLog||[];
+  updated.textContent=`Batalha atual: #${D.battleNo||0} • atualizado em ${D.generatedAt?new Date(D.generatedAt).toLocaleString('pt-BR'):'aguardando primeira atualização'}`;
+  clubSel.innerHTML=aSel.innerHTML=bSel.innerHTML=opts(); if(bSel.options.length>1)bSel.selectedIndex=1;
+  clubSel.onchange=club;aSel.onchange=head;bSel.onchange=head;
+  club();head();ranks();hist();
+}
+document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>show(b.dataset.view));
+load().catch(err=>{updated.textContent='Não foi possível carregar os dados. Atualize a página.';console.error(err)});
+</script>
+</body></html>
