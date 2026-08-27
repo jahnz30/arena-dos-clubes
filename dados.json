@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T03:24:42.788Z",
+  "generatedAt": "2026-08-27T03:51:43.548Z",
   "battleNo": 1,
   "clubs": [
     {
@@ -1212,9 +1212,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1227,9 +1227,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1242,9 +1242,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1257,9 +1257,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1272,9 +1272,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 4,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 4,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1287,9 +1287,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 4,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 4,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1302,9 +1302,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1347,9 +1347,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1377,9 +1377,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1407,9 +1407,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1422,9 +1422,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1452,9 +1452,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1527,9 +1527,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 4,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 4,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1542,9 +1542,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1557,9 +1557,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 5,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 5,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1572,9 +1572,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1587,9 +1587,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1602,9 +1602,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1617,9 +1617,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1662,9 +1662,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1677,9 +1677,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1692,9 +1692,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1707,9 +1707,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1736,10 +1736,10 @@
       "battles": 1,
       "wins": 0,
       "seconds": 0,
-      "thirds": 0,
-      "kills": 0,
+      "thirds": 1,
+      "kills": 4,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 4,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1752,9 +1752,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 7,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 7,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1767,9 +1767,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1782,9 +1782,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 5,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 5,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1797,9 +1797,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1812,9 +1812,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1827,9 +1827,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1842,9 +1842,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1857,9 +1857,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1872,9 +1872,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 4,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 4,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1887,9 +1887,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -1992,9 +1992,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2007,9 +2007,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2052,9 +2052,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 4,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 4,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2067,9 +2067,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2082,9 +2082,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2097,9 +2097,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2112,9 +2112,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 4,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 4,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2127,9 +2127,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2142,9 +2142,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2157,9 +2157,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2202,9 +2202,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2217,9 +2217,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2232,9 +2232,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2247,9 +2247,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2262,9 +2262,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2277,9 +2277,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2307,9 +2307,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2322,9 +2322,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2337,9 +2337,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2382,9 +2382,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2397,9 +2397,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2412,9 +2412,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2442,9 +2442,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 5,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 5,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2455,11 +2455,11 @@
       "state": "SC",
       "battles": 1,
       "wins": 0,
-      "seconds": 1,
+      "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2472,9 +2472,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2487,9 +2487,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2502,9 +2502,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 4,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 4,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2532,9 +2532,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2562,9 +2562,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2577,9 +2577,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2619,15 +2619,15 @@
       "name": "Juventus-SC",
       "state": "SC",
       "battles": 1,
-      "wins": 1,
-      "seconds": 0,
+      "wins": 0,
+      "seconds": 1,
       "thirds": 0,
-      "kills": 5,
-      "deaths": 0,
-      "bestKills": 5,
-      "lastWin": "2026-08-27T03:24:37.964Z",
-      "streak": 1,
-      "bestStreak": 1
+      "kills": 1,
+      "deaths": 1,
+      "bestKills": 1,
+      "lastWin": null,
+      "streak": 0,
+      "bestStreak": 0
     },
     "c096": {
       "id": "c096",
@@ -2682,9 +2682,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2712,9 +2712,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2727,9 +2727,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2742,9 +2742,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 4,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 4,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2757,9 +2757,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2772,9 +2772,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2802,9 +2802,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2817,9 +2817,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2832,9 +2832,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2847,9 +2847,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2877,9 +2877,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2892,9 +2892,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 5,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 5,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2907,9 +2907,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2922,9 +2922,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2937,9 +2937,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2967,9 +2967,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2982,9 +2982,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -2997,9 +2997,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3012,9 +3012,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 6,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 6,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3027,9 +3027,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3042,9 +3042,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3072,9 +3072,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3087,9 +3087,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3102,9 +3102,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3117,9 +3117,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3147,9 +3147,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3177,9 +3177,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3207,9 +3207,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3222,9 +3222,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3237,9 +3237,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3252,9 +3252,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3267,9 +3267,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3282,9 +3282,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3297,9 +3297,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3312,9 +3312,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3327,9 +3327,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3342,9 +3342,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3357,9 +3357,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3372,9 +3372,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3387,9 +3387,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3417,9 +3417,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3432,9 +3432,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 6,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 6,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3462,9 +3462,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3492,9 +3492,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 6,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 6,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3507,9 +3507,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3522,9 +3522,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3537,9 +3537,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3582,9 +3582,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3597,9 +3597,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3612,9 +3612,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3627,9 +3627,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3642,9 +3642,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3657,9 +3657,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3672,9 +3672,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3702,9 +3702,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3717,9 +3717,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3732,9 +3732,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3747,9 +3747,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3761,7 +3761,7 @@
       "battles": 1,
       "wins": 0,
       "seconds": 0,
-      "thirds": 1,
+      "thirds": 0,
       "kills": 2,
       "deaths": 1,
       "bestKills": 2,
@@ -3774,15 +3774,15 @@
       "name": "Rio Branco-ES",
       "state": "ES",
       "battles": 1,
-      "wins": 0,
+      "wins": 1,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
-      "deaths": 1,
-      "bestKills": 1,
-      "lastWin": null,
-      "streak": 0,
-      "bestStreak": 0
+      "kills": 8,
+      "deaths": 0,
+      "bestKills": 8,
+      "lastWin": "2026-08-27T03:51:40.855Z",
+      "streak": 1,
+      "bestStreak": 1
     },
     "c173": {
       "id": "c173",
@@ -3807,9 +3807,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3837,9 +3837,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3867,9 +3867,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3882,9 +3882,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3897,9 +3897,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3972,9 +3972,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -3987,9 +3987,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4002,9 +4002,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4017,9 +4017,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4032,9 +4032,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 3,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 3,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4047,9 +4047,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 3,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 3,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4062,9 +4062,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4077,9 +4077,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 0,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 0,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4092,9 +4092,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4107,9 +4107,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4122,9 +4122,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4137,9 +4137,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 0,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 0,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4152,9 +4152,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4167,9 +4167,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 1,
+      "kills": 2,
       "deaths": 1,
-      "bestKills": 1,
+      "bestKills": 2,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4182,9 +4182,9 @@
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "kills": 2,
+      "kills": 1,
       "deaths": 1,
-      "bestKills": 2,
+      "bestKills": 1,
       "lastWin": null,
       "streak": 0,
       "bestStreak": 0
@@ -4206,2612 +4206,2612 @@
     }
   },
   "h2h": {
-    "c043>c182": 1,
-    "c035>c083": 1,
-    "c190>c042": 1,
-    "c128>c106": 1,
-    "c025>c191": 1,
-    "c057>c072": 1,
-    "c176>c003": 1,
-    "c161>c185": 1,
-    "c141>c127": 1,
-    "c033>c176": 1,
-    "c122>c055": 1,
-    "c070>c058": 1,
-    "c198>c036": 1,
-    "c005>c187": 1,
-    "c149>c035": 1,
-    "c088>c091": 1,
-    "c040>c125": 1,
-    "c107>c069": 1,
-    "c006>c129": 1,
-    "c074>c024": 1,
-    "c193>c157": 1,
-    "c071>c193": 1,
-    "c087>c026": 1,
-    "c140>c049": 1,
-    "c009>c013": 1,
-    "c119>c012": 1,
-    "c145>c170": 1,
-    "c032>c093": 1,
-    "c150>c153": 1,
-    "c199>c082": 1,
-    "c100>c089": 1,
-    "c123>c015": 1,
-    "c104>c011": 1,
-    "c051>c077": 1,
-    "c010>c021": 1,
-    "c124>c116": 1,
-    "c113>c146": 1,
-    "c017>c020": 1,
-    "c163>c067": 1,
-    "c107>c130": 1,
-    "c019>c163": 1,
-    "c096>c009": 1,
-    "c120>c010": 1,
-    "c115>c154": 1,
-    "c139>c181": 1,
-    "c071>c002": 1,
-    "c065>c007": 1,
-    "c027>c150": 1,
-    "c114>c192": 1,
-    "c199>c124": 1,
-    "c136>c094": 1,
-    "c031>c177": 1,
-    "c076>c031": 1,
-    "c006>c112": 1,
-    "c128>c133": 1,
-    "c194>c166": 1,
-    "c039>c040": 1,
-    "c102>c148": 1,
-    "c053>c165": 1,
-    "c121>c028": 1,
-    "c178>c119": 1,
-    "c056>c126": 1,
-    "c113>c152": 1,
-    "c138>c199": 1,
-    "c194>c184": 1,
-    "c059>c029": 1,
-    "c022>c179": 1,
-    "c086>c173": 1,
-    "c038>c096": 1,
-    "c098>c147": 1,
-    "c032>c128": 1,
-    "c139>c137": 1,
-    "c066>c071": 1,
-    "c017>c100": 1,
-    "c123>c103": 1,
-    "c197>c121": 1,
-    "c189>c050": 1,
-    "c061>c122": 1,
-    "c160>c056": 1,
-    "c061>c047": 1,
-    "c045>c078": 1,
-    "c132>c102": 1,
-    "c172>c134": 1,
-    "c059>c194": 1,
-    "c092>c180": 1,
-    "c074>c136": 1,
-    "c017>c018": 1,
-    "c189>c059": 1,
-    "c039>c053": 1,
-    "c188>c168": 1,
-    "c149>c063": 1,
-    "c030>c079": 1,
-    "c151>c017": 1,
-    "c046>c033": 1,
-    "c143>c140": 1,
-    "c045>c167": 1,
-    "c016>c132": 1,
-    "c022>c162": 1,
-    "c041>c118": 1,
-    "c138>c110": 1,
-    "c039>c004": 1,
-    "c155>c046": 1,
-    "c061>c030": 1,
-    "c174>c164": 1,
-    "c120>c070": 1,
-    "c111>c159": 1,
-    "c068>c111": 1,
-    "c155>c065": 1,
-    "c006>c081": 1,
-    "c139>c068": 1,
-    "c086>c092": 1,
-    "c061>c139": 1,
-    "c045>c198": 1,
-    "c039>c032": 1,
-    "c057>c054": 1,
-    "c188>c019": 1,
-    "c022>c101": 1,
-    "c188>c090": 1,
-    "c076>c016": 1,
-    "c005>c061": 1,
-    "c099>c197": 1,
-    "c045>c066": 1,
-    "c155>c143": 1,
-    "c123>c115": 1,
-    "c105>c104": 1,
-    "c138>c086": 1,
-    "c196>c123": 1,
-    "c098>c038": 1,
-    "c043>c097": 1,
-    "c006>c200": 1,
-    "c109>c188": 1,
-    "c142>c190": 1,
-    "c044>c156": 1,
-    "c080>c114": 1,
-    "c149>c155": 1,
-    "c195>c052": 1,
-    "c027>c034": 1,
-    "c169>c186": 1,
-    "c195>c151": 1,
-    "c076>c041": 1,
-    "c113>c145": 1,
-    "c149>c008": 1,
-    "c160>c085": 1,
-    "c060>c138": 1,
-    "c039>c107": 1,
-    "c099>c105": 1,
-    "c088>c006": 1,
-    "c189>c141": 1,
-    "c005>c131": 1,
-    "c005>c117": 1,
-    "c113>c048": 1,
-    "c108>c195": 1,
-    "c037>c189": 1,
-    "c080>c120": 1,
-    "c178>c183": 1,
-    "c178>c142": 1,
-    "c087>c172": 1,
-    "c057>c005": 1,
-    "c080>c057": 1,
-    "c161>c080": 1,
-    "c158>c108": 1,
-    "c062>c045": 1,
-    "c087>c044": 1,
-    "c099>c076": 1,
-    "c064>c073": 1,
-    "c084>c178": 1,
-    "c060>c175": 1,
-    "c087>c062": 1,
-    "c144>c161": 1,
-    "c075>c196": 1,
-    "c149>c014": 1,
-    "c149>c144": 1,
-    "c084>c039": 1,
-    "c027>c088": 1,
-    "c043>c027": 1,
-    "c169>c043": 1,
-    "c135>c099": 1,
-    "c023>c169": 1,
-    "c113>c149": 1,
-    "c025>c098": 1,
-    "c001>c174": 1,
-    "c135>c158": 1,
-    "c160>c075": 1,
-    "c022>c135": 1,
-    "c037>c025": 1,
-    "c037>c022": 1,
-    "c095>c074": 1,
-    "c095>c109": 1,
-    "c037>c051": 1,
-    "c037>c160": 1,
-    "c037>c064": 1,
-    "c037>c023": 1,
+    "c066>c032": 1,
+    "c065>c145": 1,
+    "c197>c047": 1,
+    "c158>c076": 1,
+    "c104>c025": 1,
+    "c019>c092": 1,
+    "c003>c200": 1,
+    "c034>c017": 1,
+    "c139>c099": 1,
+    "c062>c139": 1,
+    "c185>c131": 1,
+    "c081>c034": 1,
+    "c057>c141": 1,
+    "c015>c133": 1,
+    "c054>c081": 1,
+    "c024>c155": 1,
+    "c194>c039": 1,
+    "c012>c003": 1,
+    "c102>c106": 1,
+    "c118>c136": 1,
+    "c006>c073": 1,
+    "c074>c175": 1,
+    "c187>c027": 1,
+    "c104>c038": 1,
+    "c026>c144": 1,
+    "c154>c188": 1,
+    "c146>c094": 1,
+    "c012>c178": 1,
+    "c102>c045": 1,
+    "c149>c086": 1,
+    "c120>c140": 1,
+    "c110>c097": 1,
+    "c112>c109": 1,
+    "c111>c105": 1,
+    "c009>c053": 1,
+    "c187>c129": 1,
+    "c035>c055": 1,
+    "c103>c142": 1,
+    "c061>c177": 1,
+    "c002>c082": 1,
+    "c051>c031": 1,
+    "c197>c111": 1,
+    "c069>c052": 1,
+    "c043>c110": 1,
+    "c138>c102": 1,
+    "c091>c197": 1,
+    "c170>c132": 1,
+    "c170>c151": 1,
+    "c060>c012": 1,
+    "c192>c112": 1,
+    "c174>c051": 1,
+    "c124>c117": 1,
+    "c171>c074": 1,
+    "c190>c013": 1,
+    "c128>c033": 1,
+    "c165>c066": 1,
+    "c115>c138": 1,
+    "c130>c044": 1,
+    "c007>c147": 1,
+    "c134>c163": 1,
+    "c127>c010": 1,
+    "c199>c160": 1,
+    "c016>c070": 1,
+    "c075>c022": 1,
+    "c072>c166": 1,
+    "c190>c019": 1,
+    "c061>c087": 1,
+    "c069>c170": 1,
+    "c100>c183": 1,
+    "c062>c072": 1,
+    "c004>c021": 1,
+    "c042>c006": 1,
+    "c162>c195": 1,
+    "c176>c035": 1,
+    "c146>c091": 1,
+    "c058>c113": 1,
+    "c089>c029": 1,
+    "c130>c181": 1,
+    "c134>c123": 1,
+    "c165>c134": 1,
+    "c161>c100": 1,
+    "c167>c161": 1,
+    "c028>c154": 1,
+    "c104>c169": 1,
+    "c002>c020": 1,
+    "c069>c128": 1,
+    "c002>c023": 1,
+    "c004>c182": 1,
+    "c165>c143": 1,
+    "c191>c173": 1,
+    "c198>c028": 1,
+    "c057>c026": 1,
+    "c121>c008": 1,
+    "c126>c061": 1,
+    "c088>c199": 1,
+    "c046>c157": 1,
+    "c186>c050": 1,
+    "c171>c043": 1,
+    "c127>c152": 1,
+    "c168>c135": 1,
+    "c168>c165": 1,
+    "c058>c104": 1,
+    "c101>c127": 1,
+    "c190>c015": 1,
+    "c186>c041": 1,
+    "c101>c077": 1,
+    "c164>c011": 1,
+    "c067>c108": 1,
+    "c079>c016": 1,
+    "c148>c191": 1,
+    "c185>c049": 1,
+    "c075>c158": 1,
+    "c071>c084": 1,
+    "c149>c190": 1,
+    "c098>c079": 1,
+    "c176>c120": 1,
+    "c036>c062": 1,
+    "c098>c146": 1,
+    "c024>c176": 1,
+    "c014>c119": 1,
+    "c064>c001": 1,
+    "c088>c187": 1,
+    "c046>c196": 1,
+    "c057>c168": 1,
+    "c096>c088": 1,
+    "c121>c090": 1,
+    "c064>c185": 1,
+    "c057>c184": 1,
+    "c125>c124": 1,
+    "c067>c002": 1,
+    "c116>c005": 1,
+    "c193>c054": 1,
+    "c193>c164": 1,
+    "c004>c193": 1,
+    "c174>c167": 1,
+    "c115>c125": 1,
+    "c083>c071": 1,
+    "c059>c064": 1,
+    "c101>c114": 1,
+    "c126>c057": 1,
+    "c024>c098": 1,
+    "c121>c048": 1,
+    "c030>c101": 1,
+    "c159>c007": 1,
+    "c085>c189": 1,
+    "c162>c130": 1,
+    "c159>c040": 1,
+    "c156>c018": 1,
+    "c153>c059": 1,
+    "c063>c030": 1,
+    "c103>c068": 1,
+    "c153>c192": 1,
+    "c121>c058": 1,
+    "c149>c174": 1,
+    "c103>c118": 1,
+    "c085>c107": 1,
+    "c056>c009": 1,
+    "c024>c014": 1,
+    "c180>c126": 1,
+    "c159>c148": 1,
+    "c103>c065": 1,
+    "c063>c103": 1,
+    "c083>c180": 1,
+    "c089>c096": 1,
     "c095>c037": 1,
-    "c001>c113": 1,
-    "c060>c087": 1,
-    "c171>c001": 1,
-    "c171>c060": 1,
-    "c095>c171": 1,
-    "c095>c084": 1
+    "c153>c067": 1,
+    "c083>c046": 1,
+    "c137>c162": 1,
+    "c024>c085": 1,
+    "c116>c137": 1,
+    "c198>c171": 1,
+    "c179>c024": 1,
+    "c083>c093": 1,
+    "c150>c004": 1,
+    "c179>c116": 1,
+    "c063>c150": 1,
+    "c075>c056": 1,
+    "c153>c069": 1,
+    "c172>c122": 1,
+    "c083>c063": 1,
+    "c172>c060": 1,
+    "c121>c198": 1,
+    "c121>c078": 1,
+    "c179>c083": 1,
+    "c153>c194": 1,
+    "c036>c089": 1,
+    "c172>c075": 1,
+    "c036>c080": 1,
+    "c153>c149": 1,
+    "c172>c153": 1,
+    "c115>c179": 1,
+    "c186>c156": 1,
+    "c042>c115": 1,
+    "c172>c121": 1,
+    "c036>c159": 1,
+    "c042>c186": 1,
+    "c172>c042": 1,
+    "c172>c036": 1,
+    "c172>c095": 1
   },
   "eliminationLog": [
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c095",
-      "victimId": "c084",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c172",
+      "victimId": "c095",
       "place": 2
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c095",
-      "victimId": "c171",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c172",
+      "victimId": "c036",
       "place": 3
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c171",
-      "victimId": "c060",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c172",
+      "victimId": "c042",
       "place": 4
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c171",
-      "victimId": "c001",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c042",
+      "victimId": "c186",
       "place": 5
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c060",
-      "victimId": "c087",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c036",
+      "victimId": "c159",
       "place": 6
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c001",
-      "victimId": "c113",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c172",
+      "victimId": "c121",
       "place": 7
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c095",
-      "victimId": "c037",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c042",
+      "victimId": "c115",
       "place": 8
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c037",
-      "victimId": "c023",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c186",
+      "victimId": "c156",
       "place": 9
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c037",
-      "victimId": "c064",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c115",
+      "victimId": "c179",
       "place": 10
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c037",
-      "victimId": "c160",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c172",
+      "victimId": "c153",
       "place": 11
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c037",
-      "victimId": "c051",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c153",
+      "victimId": "c149",
       "place": 12
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c095",
-      "victimId": "c109",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c036",
+      "victimId": "c080",
       "place": 13
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c095",
-      "victimId": "c074",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c172",
+      "victimId": "c075",
       "place": 14
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c037",
-      "victimId": "c022",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c036",
+      "victimId": "c089",
       "place": 15
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c037",
-      "victimId": "c025",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c153",
+      "victimId": "c194",
       "place": 16
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c022",
-      "victimId": "c135",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c179",
+      "victimId": "c083",
       "place": 17
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c160",
-      "victimId": "c075",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c121",
+      "victimId": "c078",
       "place": 18
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c135",
-      "victimId": "c158",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c121",
+      "victimId": "c198",
       "place": 19
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c001",
-      "victimId": "c174",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c172",
+      "victimId": "c060",
       "place": 20
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c025",
-      "victimId": "c098",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c083",
+      "victimId": "c063",
       "place": 21
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c113",
-      "victimId": "c149",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c172",
+      "victimId": "c122",
       "place": 22
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c023",
-      "victimId": "c169",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c153",
+      "victimId": "c069",
       "place": 23
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c135",
-      "victimId": "c099",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c075",
+      "victimId": "c056",
       "place": 24
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c169",
-      "victimId": "c043",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c063",
+      "victimId": "c150",
       "place": 25
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c043",
-      "victimId": "c027",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c179",
+      "victimId": "c116",
       "place": 26
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c027",
-      "victimId": "c088",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c150",
+      "victimId": "c004",
       "place": 27
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c084",
-      "victimId": "c039",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c083",
+      "victimId": "c093",
       "place": 28
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c149",
-      "victimId": "c144",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c179",
+      "victimId": "c024",
       "place": 29
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c149",
-      "victimId": "c014",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c198",
+      "victimId": "c171",
       "place": 30
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c075",
-      "victimId": "c196",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c116",
+      "victimId": "c137",
       "place": 31
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c144",
-      "victimId": "c161",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c024",
+      "victimId": "c085",
       "place": 32
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c087",
-      "victimId": "c062",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c137",
+      "victimId": "c162",
       "place": 33
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c060",
-      "victimId": "c175",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c083",
+      "victimId": "c046",
       "place": 34
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c084",
-      "victimId": "c178",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c153",
+      "victimId": "c067",
       "place": 35
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c064",
-      "victimId": "c073",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c095",
+      "victimId": "c037",
       "place": 36
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c099",
-      "victimId": "c076",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c089",
+      "victimId": "c096",
       "place": 37
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c087",
-      "victimId": "c044",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c083",
+      "victimId": "c180",
       "place": 38
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c062",
-      "victimId": "c045",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c063",
+      "victimId": "c103",
       "place": 39
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c158",
-      "victimId": "c108",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c103",
+      "victimId": "c065",
       "place": 40
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c161",
-      "victimId": "c080",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c159",
+      "victimId": "c148",
       "place": 41
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c080",
-      "victimId": "c057",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c180",
+      "victimId": "c126",
       "place": 42
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c057",
-      "victimId": "c005",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c024",
+      "victimId": "c014",
       "place": 43
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c087",
-      "victimId": "c172",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c056",
+      "victimId": "c009",
       "place": 44
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c178",
-      "victimId": "c142",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c085",
+      "victimId": "c107",
       "place": 45
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c178",
-      "victimId": "c183",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c103",
+      "victimId": "c118",
       "place": 46
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c080",
-      "victimId": "c120",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c149",
+      "victimId": "c174",
       "place": 47
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c037",
-      "victimId": "c189",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c121",
+      "victimId": "c058",
       "place": 48
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c108",
-      "victimId": "c195",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c153",
+      "victimId": "c192",
       "place": 49
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c113",
-      "victimId": "c048",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c103",
+      "victimId": "c068",
       "place": 50
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c005",
-      "victimId": "c117",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c063",
+      "victimId": "c030",
       "place": 51
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c005",
-      "victimId": "c131",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c153",
+      "victimId": "c059",
       "place": 52
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c189",
-      "victimId": "c141",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c156",
+      "victimId": "c018",
       "place": 53
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c088",
-      "victimId": "c006",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c159",
+      "victimId": "c040",
       "place": 54
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c099",
-      "victimId": "c105",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c162",
+      "victimId": "c130",
       "place": 55
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c039",
-      "victimId": "c107",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c085",
+      "victimId": "c189",
       "place": 56
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c060",
-      "victimId": "c138",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c159",
+      "victimId": "c007",
       "place": 57
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c160",
-      "victimId": "c085",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c030",
+      "victimId": "c101",
       "place": 58
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c149",
-      "victimId": "c008",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c121",
+      "victimId": "c048",
       "place": 59
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c113",
-      "victimId": "c145",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c024",
+      "victimId": "c098",
       "place": 60
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
-      "killerId": "c076",
-      "victimId": "c041",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c126",
+      "victimId": "c057",
       "place": 61
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c195",
-      "victimId": "c151",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c101",
+      "victimId": "c114",
       "place": 62
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c169",
-      "victimId": "c186",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c059",
+      "victimId": "c064",
       "place": 63
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c027",
-      "victimId": "c034",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c083",
+      "victimId": "c071",
       "place": 64
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c195",
-      "victimId": "c052",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c115",
+      "victimId": "c125",
       "place": 65
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c149",
-      "victimId": "c155",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c174",
+      "victimId": "c167",
       "place": 66
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c080",
-      "victimId": "c114",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c004",
+      "victimId": "c193",
       "place": 67
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c044",
-      "victimId": "c156",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c193",
+      "victimId": "c164",
       "place": 68
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c142",
-      "victimId": "c190",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c193",
+      "victimId": "c054",
       "place": 69
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c109",
-      "victimId": "c188",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c116",
+      "victimId": "c005",
       "place": 70
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c006",
-      "victimId": "c200",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c067",
+      "victimId": "c002",
       "place": 71
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c043",
-      "victimId": "c097",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c125",
+      "victimId": "c124",
       "place": 72
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c098",
-      "victimId": "c038",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c057",
+      "victimId": "c184",
       "place": 73
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c196",
-      "victimId": "c123",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c064",
+      "victimId": "c185",
       "place": 74
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c138",
-      "victimId": "c086",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c121",
+      "victimId": "c090",
       "place": 75
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c105",
-      "victimId": "c104",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c096",
+      "victimId": "c088",
       "place": 76
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c123",
-      "victimId": "c115",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c057",
+      "victimId": "c168",
       "place": 77
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c155",
-      "victimId": "c143",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c046",
+      "victimId": "c196",
       "place": 78
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c045",
-      "victimId": "c066",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c088",
+      "victimId": "c187",
       "place": 79
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c099",
-      "victimId": "c197",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c064",
+      "victimId": "c001",
       "place": 80
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c005",
-      "victimId": "c061",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c014",
+      "victimId": "c119",
       "place": 81
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c076",
-      "victimId": "c016",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c024",
+      "victimId": "c176",
       "place": 82
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c188",
-      "victimId": "c090",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c098",
+      "victimId": "c146",
       "place": 83
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c022",
-      "victimId": "c101",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c036",
+      "victimId": "c062",
       "place": 84
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c188",
-      "victimId": "c019",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c176",
+      "victimId": "c120",
       "place": 85
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c057",
-      "victimId": "c054",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c098",
+      "victimId": "c079",
       "place": 86
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c039",
-      "victimId": "c032",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c149",
+      "victimId": "c190",
       "place": 87
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c045",
-      "victimId": "c198",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c071",
+      "victimId": "c084",
       "place": 88
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c061",
-      "victimId": "c139",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c075",
+      "victimId": "c158",
       "place": 89
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c086",
-      "victimId": "c092",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c185",
+      "victimId": "c049",
       "place": 90
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c139",
-      "victimId": "c068",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c148",
+      "victimId": "c191",
       "place": 91
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c006",
-      "victimId": "c081",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c079",
+      "victimId": "c016",
       "place": 92
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c155",
-      "victimId": "c065",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c067",
+      "victimId": "c108",
       "place": 93
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c068",
-      "victimId": "c111",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c164",
+      "victimId": "c011",
       "place": 94
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c111",
-      "victimId": "c159",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c101",
+      "victimId": "c077",
       "place": 95
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c120",
-      "victimId": "c070",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c186",
+      "victimId": "c041",
       "place": 96
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c174",
-      "victimId": "c164",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c190",
+      "victimId": "c015",
       "place": 97
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c061",
-      "victimId": "c030",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c101",
+      "victimId": "c127",
       "place": 98
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c155",
-      "victimId": "c046",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c058",
+      "victimId": "c104",
       "place": 99
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c039",
-      "victimId": "c004",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c168",
+      "victimId": "c165",
       "place": 100
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c138",
-      "victimId": "c110",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c168",
+      "victimId": "c135",
       "place": 101
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c041",
-      "victimId": "c118",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c127",
+      "victimId": "c152",
       "place": 102
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c022",
-      "victimId": "c162",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c171",
+      "victimId": "c043",
       "place": 103
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c016",
-      "victimId": "c132",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c186",
+      "victimId": "c050",
       "place": 104
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c045",
-      "victimId": "c167",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c046",
+      "victimId": "c157",
       "place": 105
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c143",
-      "victimId": "c140",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c088",
+      "victimId": "c199",
       "place": 106
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c046",
-      "victimId": "c033",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c126",
+      "victimId": "c061",
       "place": 107
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c151",
-      "victimId": "c017",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c121",
+      "victimId": "c008",
       "place": 108
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c030",
-      "victimId": "c079",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c057",
+      "victimId": "c026",
       "place": 109
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c149",
-      "victimId": "c063",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c198",
+      "victimId": "c028",
       "place": 110
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c188",
-      "victimId": "c168",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c191",
+      "victimId": "c173",
       "place": 111
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c039",
-      "victimId": "c053",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c165",
+      "victimId": "c143",
       "place": 112
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c189",
-      "victimId": "c059",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c004",
+      "victimId": "c182",
       "place": 113
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c017",
-      "victimId": "c018",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c002",
+      "victimId": "c023",
       "place": 114
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c074",
-      "victimId": "c136",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c069",
+      "victimId": "c128",
       "place": 115
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c092",
-      "victimId": "c180",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c002",
+      "victimId": "c020",
       "place": 116
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c059",
-      "victimId": "c194",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c104",
+      "victimId": "c169",
       "place": 117
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c172",
-      "victimId": "c134",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c028",
+      "victimId": "c154",
       "place": 118
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c132",
-      "victimId": "c102",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c167",
+      "victimId": "c161",
       "place": 119
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c045",
-      "victimId": "c078",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c161",
+      "victimId": "c100",
       "place": 120
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c061",
-      "victimId": "c047",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c165",
+      "victimId": "c134",
       "place": 121
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c160",
-      "victimId": "c056",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c134",
+      "victimId": "c123",
       "place": 122
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c061",
-      "victimId": "c122",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c130",
+      "victimId": "c181",
       "place": 123
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c189",
-      "victimId": "c050",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c089",
+      "victimId": "c029",
       "place": 124
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c197",
-      "victimId": "c121",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c058",
+      "victimId": "c113",
       "place": 125
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c123",
-      "victimId": "c103",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c146",
+      "victimId": "c091",
       "place": 126
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c017",
-      "victimId": "c100",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c176",
+      "victimId": "c035",
       "place": 127
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c066",
-      "victimId": "c071",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c162",
+      "victimId": "c195",
       "place": 128
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c139",
-      "victimId": "c137",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c042",
+      "victimId": "c006",
       "place": 129
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c032",
-      "victimId": "c128",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c004",
+      "victimId": "c021",
       "place": 130
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c098",
-      "victimId": "c147",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c062",
+      "victimId": "c072",
       "place": 131
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c038",
-      "victimId": "c096",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c100",
+      "victimId": "c183",
       "place": 132
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c086",
-      "victimId": "c173",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c069",
+      "victimId": "c170",
       "place": 133
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c022",
-      "victimId": "c179",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c061",
+      "victimId": "c087",
       "place": 134
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c059",
-      "victimId": "c029",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c190",
+      "victimId": "c019",
       "place": 135
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c194",
-      "victimId": "c184",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c072",
+      "victimId": "c166",
       "place": 136
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c138",
-      "victimId": "c199",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c075",
+      "victimId": "c022",
       "place": 137
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c113",
-      "victimId": "c152",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c016",
+      "victimId": "c070",
       "place": 138
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c056",
-      "victimId": "c126",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c199",
+      "victimId": "c160",
       "place": 139
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c178",
-      "victimId": "c119",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c127",
+      "victimId": "c010",
       "place": 140
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c121",
-      "victimId": "c028",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c134",
+      "victimId": "c163",
       "place": 141
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c053",
-      "victimId": "c165",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c007",
+      "victimId": "c147",
       "place": 142
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c102",
-      "victimId": "c148",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c130",
+      "victimId": "c044",
       "place": 143
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c039",
-      "victimId": "c040",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c115",
+      "victimId": "c138",
       "place": 144
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c194",
-      "victimId": "c166",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c165",
+      "victimId": "c066",
       "place": 145
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
+      "date": "2026-08-27T03:51:40.856Z",
       "killerId": "c128",
-      "victimId": "c133",
+      "victimId": "c033",
       "place": 146
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c006",
-      "victimId": "c112",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c190",
+      "victimId": "c013",
       "place": 147
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c076",
-      "victimId": "c031",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c171",
+      "victimId": "c074",
       "place": 148
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c031",
-      "victimId": "c177",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c124",
+      "victimId": "c117",
       "place": 149
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c136",
-      "victimId": "c094",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c174",
+      "victimId": "c051",
       "place": 150
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c199",
-      "victimId": "c124",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c192",
+      "victimId": "c112",
       "place": 151
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c114",
-      "victimId": "c192",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c060",
+      "victimId": "c012",
       "place": 152
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c027",
-      "victimId": "c150",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c170",
+      "victimId": "c151",
       "place": 153
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c065",
-      "victimId": "c007",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c170",
+      "victimId": "c132",
       "place": 154
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c071",
-      "victimId": "c002",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c091",
+      "victimId": "c197",
       "place": 155
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c139",
-      "victimId": "c181",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c138",
+      "victimId": "c102",
       "place": 156
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c115",
-      "victimId": "c154",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c043",
+      "victimId": "c110",
       "place": 157
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c120",
-      "victimId": "c010",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c069",
+      "victimId": "c052",
       "place": 158
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c096",
-      "victimId": "c009",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c197",
+      "victimId": "c111",
       "place": 159
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c019",
-      "victimId": "c163",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c051",
+      "victimId": "c031",
       "place": 160
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c107",
-      "victimId": "c130",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c002",
+      "victimId": "c082",
       "place": 161
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c163",
-      "victimId": "c067",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c061",
+      "victimId": "c177",
       "place": 162
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c017",
-      "victimId": "c020",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c103",
+      "victimId": "c142",
       "place": 163
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c113",
-      "victimId": "c146",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c035",
+      "victimId": "c055",
       "place": 164
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c124",
-      "victimId": "c116",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c187",
+      "victimId": "c129",
       "place": 165
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c010",
-      "victimId": "c021",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c009",
+      "victimId": "c053",
       "place": 166
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c051",
-      "victimId": "c077",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c111",
+      "victimId": "c105",
       "place": 167
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c104",
-      "victimId": "c011",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c112",
+      "victimId": "c109",
       "place": 168
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c123",
-      "victimId": "c015",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c110",
+      "victimId": "c097",
       "place": 169
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c100",
-      "victimId": "c089",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c120",
+      "victimId": "c140",
       "place": 170
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c199",
-      "victimId": "c082",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c149",
+      "victimId": "c086",
       "place": 171
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c150",
-      "victimId": "c153",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c102",
+      "victimId": "c045",
       "place": 172
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c032",
-      "victimId": "c093",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c012",
+      "victimId": "c178",
       "place": 173
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c145",
-      "victimId": "c170",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c146",
+      "victimId": "c094",
       "place": 174
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c119",
-      "victimId": "c012",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c154",
+      "victimId": "c188",
       "place": 175
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c009",
-      "victimId": "c013",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c026",
+      "victimId": "c144",
       "place": 176
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c140",
-      "victimId": "c049",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c104",
+      "victimId": "c038",
       "place": 177
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c087",
-      "victimId": "c026",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c187",
+      "victimId": "c027",
       "place": 178
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c071",
-      "victimId": "c193",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c074",
+      "victimId": "c175",
       "place": 179
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c193",
-      "victimId": "c157",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c006",
+      "victimId": "c073",
       "place": 180
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c074",
-      "victimId": "c024",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c118",
+      "victimId": "c136",
       "place": 181
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c006",
-      "victimId": "c129",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c102",
+      "victimId": "c106",
       "place": 182
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c107",
-      "victimId": "c069",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c012",
+      "victimId": "c003",
       "place": 183
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.966Z",
-      "killerId": "c040",
-      "victimId": "c125",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c194",
+      "victimId": "c039",
       "place": 184
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c088",
-      "victimId": "c091",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c024",
+      "victimId": "c155",
       "place": 185
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c149",
-      "victimId": "c035",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c054",
+      "victimId": "c081",
       "place": 186
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c005",
-      "victimId": "c187",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c015",
+      "victimId": "c133",
       "place": 187
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c198",
-      "victimId": "c036",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c057",
+      "victimId": "c141",
       "place": 188
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c070",
-      "victimId": "c058",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c081",
+      "victimId": "c034",
       "place": 189
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c122",
-      "victimId": "c055",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c185",
+      "victimId": "c131",
       "place": 190
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c033",
-      "victimId": "c176",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c062",
+      "victimId": "c139",
       "place": 191
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c141",
-      "victimId": "c127",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c139",
+      "victimId": "c099",
       "place": 192
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c161",
-      "victimId": "c185",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c034",
+      "victimId": "c017",
       "place": 193
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c176",
-      "victimId": "c003",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c003",
+      "victimId": "c200",
       "place": 194
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c057",
-      "victimId": "c072",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c019",
+      "victimId": "c092",
       "place": 195
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c025",
-      "victimId": "c191",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c104",
+      "victimId": "c025",
       "place": 196
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c128",
-      "victimId": "c106",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c158",
+      "victimId": "c076",
       "place": 197
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c190",
-      "victimId": "c042",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c197",
+      "victimId": "c047",
       "place": 198
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c035",
-      "victimId": "c083",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c065",
+      "victimId": "c145",
       "place": 199
     },
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.965Z",
-      "killerId": "c043",
-      "victimId": "c182",
+      "date": "2026-08-27T03:51:40.856Z",
+      "killerId": "c066",
+      "victimId": "c032",
       "place": 200
     }
   ],
   "history": [
     {
       "battleNo": 1,
-      "date": "2026-08-27T03:24:37.967Z",
+      "date": "2026-08-27T03:51:40.856Z",
       "seed": 20260825,
-      "championId": "c095",
-      "champion": "Juventus-SC",
-      "championState": "SC",
-      "secondId": "c084",
-      "second": "Avaí",
+      "championId": "c172",
+      "champion": "Rio Branco-ES",
+      "championState": "ES",
+      "secondId": "c095",
+      "second": "Juventus-SC",
       "secondState": "SC",
-      "thirdId": "c171",
-      "third": "Parnahyba",
-      "thirdState": "PI",
-      "topKiller": "Boavista-RJ",
-      "topKillerState": "RJ",
-      "topKillerKills": 7,
+      "thirdId": "c036",
+      "third": "Bangu",
+      "thirdState": "RJ",
+      "topKiller": "Rio Branco-ES",
+      "topKillerState": "ES",
+      "topKillerKills": 8,
       "eliminations": [
         {
-          "killerId": "c043",
-          "victimId": "c182",
+          "killerId": "c066",
+          "victimId": "c032",
           "place": 200
         },
         {
-          "killerId": "c035",
-          "victimId": "c083",
+          "killerId": "c065",
+          "victimId": "c145",
           "place": 199
         },
         {
-          "killerId": "c190",
-          "victimId": "c042",
+          "killerId": "c197",
+          "victimId": "c047",
           "place": 198
         },
         {
-          "killerId": "c128",
-          "victimId": "c106",
+          "killerId": "c158",
+          "victimId": "c076",
           "place": 197
         },
         {
-          "killerId": "c025",
-          "victimId": "c191",
+          "killerId": "c104",
+          "victimId": "c025",
           "place": 196
         },
         {
-          "killerId": "c057",
-          "victimId": "c072",
+          "killerId": "c019",
+          "victimId": "c092",
           "place": 195
         },
         {
-          "killerId": "c176",
-          "victimId": "c003",
+          "killerId": "c003",
+          "victimId": "c200",
           "place": 194
         },
         {
-          "killerId": "c161",
-          "victimId": "c185",
+          "killerId": "c034",
+          "victimId": "c017",
           "place": 193
         },
         {
-          "killerId": "c141",
-          "victimId": "c127",
+          "killerId": "c139",
+          "victimId": "c099",
           "place": 192
         },
         {
-          "killerId": "c033",
-          "victimId": "c176",
+          "killerId": "c062",
+          "victimId": "c139",
           "place": 191
         },
         {
-          "killerId": "c122",
-          "victimId": "c055",
+          "killerId": "c185",
+          "victimId": "c131",
           "place": 190
         },
         {
-          "killerId": "c070",
-          "victimId": "c058",
+          "killerId": "c081",
+          "victimId": "c034",
           "place": 189
         },
         {
-          "killerId": "c198",
-          "victimId": "c036",
+          "killerId": "c057",
+          "victimId": "c141",
           "place": 188
         },
         {
-          "killerId": "c005",
-          "victimId": "c187",
+          "killerId": "c015",
+          "victimId": "c133",
           "place": 187
         },
         {
-          "killerId": "c149",
-          "victimId": "c035",
+          "killerId": "c054",
+          "victimId": "c081",
           "place": 186
         },
         {
-          "killerId": "c088",
-          "victimId": "c091",
+          "killerId": "c024",
+          "victimId": "c155",
           "place": 185
         },
         {
-          "killerId": "c040",
-          "victimId": "c125",
+          "killerId": "c194",
+          "victimId": "c039",
           "place": 184
         },
         {
-          "killerId": "c107",
-          "victimId": "c069",
+          "killerId": "c012",
+          "victimId": "c003",
           "place": 183
         },
         {
-          "killerId": "c006",
-          "victimId": "c129",
+          "killerId": "c102",
+          "victimId": "c106",
           "place": 182
         },
         {
-          "killerId": "c074",
-          "victimId": "c024",
+          "killerId": "c118",
+          "victimId": "c136",
           "place": 181
         },
         {
-          "killerId": "c193",
-          "victimId": "c157",
+          "killerId": "c006",
+          "victimId": "c073",
           "place": 180
         },
         {
-          "killerId": "c071",
-          "victimId": "c193",
+          "killerId": "c074",
+          "victimId": "c175",
           "place": 179
         },
         {
-          "killerId": "c087",
-          "victimId": "c026",
+          "killerId": "c187",
+          "victimId": "c027",
           "place": 178
         },
         {
-          "killerId": "c140",
-          "victimId": "c049",
+          "killerId": "c104",
+          "victimId": "c038",
           "place": 177
         },
         {
-          "killerId": "c009",
-          "victimId": "c013",
+          "killerId": "c026",
+          "victimId": "c144",
           "place": 176
         },
         {
-          "killerId": "c119",
-          "victimId": "c012",
+          "killerId": "c154",
+          "victimId": "c188",
           "place": 175
         },
         {
-          "killerId": "c145",
-          "victimId": "c170",
+          "killerId": "c146",
+          "victimId": "c094",
           "place": 174
         },
         {
-          "killerId": "c032",
-          "victimId": "c093",
+          "killerId": "c012",
+          "victimId": "c178",
           "place": 173
         },
         {
-          "killerId": "c150",
-          "victimId": "c153",
+          "killerId": "c102",
+          "victimId": "c045",
           "place": 172
         },
         {
-          "killerId": "c199",
-          "victimId": "c082",
+          "killerId": "c149",
+          "victimId": "c086",
           "place": 171
         },
         {
-          "killerId": "c100",
-          "victimId": "c089",
+          "killerId": "c120",
+          "victimId": "c140",
           "place": 170
         },
         {
-          "killerId": "c123",
-          "victimId": "c015",
+          "killerId": "c110",
+          "victimId": "c097",
           "place": 169
         },
         {
-          "killerId": "c104",
-          "victimId": "c011",
+          "killerId": "c112",
+          "victimId": "c109",
           "place": 168
         },
         {
-          "killerId": "c051",
-          "victimId": "c077",
+          "killerId": "c111",
+          "victimId": "c105",
           "place": 167
         },
         {
-          "killerId": "c010",
-          "victimId": "c021",
+          "killerId": "c009",
+          "victimId": "c053",
           "place": 166
         },
         {
-          "killerId": "c124",
-          "victimId": "c116",
+          "killerId": "c187",
+          "victimId": "c129",
           "place": 165
         },
         {
-          "killerId": "c113",
-          "victimId": "c146",
+          "killerId": "c035",
+          "victimId": "c055",
           "place": 164
         },
         {
-          "killerId": "c017",
-          "victimId": "c020",
+          "killerId": "c103",
+          "victimId": "c142",
           "place": 163
         },
         {
-          "killerId": "c163",
-          "victimId": "c067",
+          "killerId": "c061",
+          "victimId": "c177",
           "place": 162
         },
         {
-          "killerId": "c107",
-          "victimId": "c130",
+          "killerId": "c002",
+          "victimId": "c082",
           "place": 161
         },
         {
-          "killerId": "c019",
-          "victimId": "c163",
+          "killerId": "c051",
+          "victimId": "c031",
           "place": 160
         },
         {
-          "killerId": "c096",
-          "victimId": "c009",
+          "killerId": "c197",
+          "victimId": "c111",
           "place": 159
         },
         {
-          "killerId": "c120",
-          "victimId": "c010",
+          "killerId": "c069",
+          "victimId": "c052",
           "place": 158
         },
         {
-          "killerId": "c115",
-          "victimId": "c154",
+          "killerId": "c043",
+          "victimId": "c110",
           "place": 157
         },
         {
-          "killerId": "c139",
-          "victimId": "c181",
+          "killerId": "c138",
+          "victimId": "c102",
           "place": 156
         },
         {
-          "killerId": "c071",
-          "victimId": "c002",
+          "killerId": "c091",
+          "victimId": "c197",
           "place": 155
         },
         {
-          "killerId": "c065",
-          "victimId": "c007",
+          "killerId": "c170",
+          "victimId": "c132",
           "place": 154
         },
         {
-          "killerId": "c027",
-          "victimId": "c150",
+          "killerId": "c170",
+          "victimId": "c151",
           "place": 153
         },
         {
-          "killerId": "c114",
-          "victimId": "c192",
+          "killerId": "c060",
+          "victimId": "c012",
           "place": 152
         },
         {
-          "killerId": "c199",
-          "victimId": "c124",
+          "killerId": "c192",
+          "victimId": "c112",
           "place": 151
         },
         {
-          "killerId": "c136",
-          "victimId": "c094",
+          "killerId": "c174",
+          "victimId": "c051",
           "place": 150
         },
         {
-          "killerId": "c031",
-          "victimId": "c177",
+          "killerId": "c124",
+          "victimId": "c117",
           "place": 149
         },
         {
-          "killerId": "c076",
-          "victimId": "c031",
+          "killerId": "c171",
+          "victimId": "c074",
           "place": 148
         },
         {
-          "killerId": "c006",
-          "victimId": "c112",
+          "killerId": "c190",
+          "victimId": "c013",
           "place": 147
         },
         {
           "killerId": "c128",
-          "victimId": "c133",
+          "victimId": "c033",
           "place": 146
         },
         {
-          "killerId": "c194",
-          "victimId": "c166",
+          "killerId": "c165",
+          "victimId": "c066",
           "place": 145
         },
         {
-          "killerId": "c039",
-          "victimId": "c040",
+          "killerId": "c115",
+          "victimId": "c138",
           "place": 144
         },
         {
-          "killerId": "c102",
-          "victimId": "c148",
+          "killerId": "c130",
+          "victimId": "c044",
           "place": 143
         },
         {
-          "killerId": "c053",
-          "victimId": "c165",
+          "killerId": "c007",
+          "victimId": "c147",
           "place": 142
         },
         {
-          "killerId": "c121",
-          "victimId": "c028",
+          "killerId": "c134",
+          "victimId": "c163",
           "place": 141
         },
         {
-          "killerId": "c178",
-          "victimId": "c119",
+          "killerId": "c127",
+          "victimId": "c010",
           "place": 140
         },
         {
-          "killerId": "c056",
-          "victimId": "c126",
+          "killerId": "c199",
+          "victimId": "c160",
           "place": 139
         },
         {
-          "killerId": "c113",
-          "victimId": "c152",
+          "killerId": "c016",
+          "victimId": "c070",
           "place": 138
         },
         {
-          "killerId": "c138",
-          "victimId": "c199",
+          "killerId": "c075",
+          "victimId": "c022",
           "place": 137
         },
         {
-          "killerId": "c194",
-          "victimId": "c184",
+          "killerId": "c072",
+          "victimId": "c166",
           "place": 136
         },
         {
-          "killerId": "c059",
-          "victimId": "c029",
+          "killerId": "c190",
+          "victimId": "c019",
           "place": 135
         },
         {
-          "killerId": "c022",
-          "victimId": "c179",
+          "killerId": "c061",
+          "victimId": "c087",
           "place": 134
         },
         {
-          "killerId": "c086",
-          "victimId": "c173",
+          "killerId": "c069",
+          "victimId": "c170",
           "place": 133
         },
         {
-          "killerId": "c038",
-          "victimId": "c096",
+          "killerId": "c100",
+          "victimId": "c183",
           "place": 132
         },
         {
-          "killerId": "c098",
-          "victimId": "c147",
+          "killerId": "c062",
+          "victimId": "c072",
           "place": 131
         },
         {
-          "killerId": "c032",
-          "victimId": "c128",
+          "killerId": "c004",
+          "victimId": "c021",
           "place": 130
         },
         {
-          "killerId": "c139",
-          "victimId": "c137",
+          "killerId": "c042",
+          "victimId": "c006",
           "place": 129
         },
         {
-          "killerId": "c066",
-          "victimId": "c071",
+          "killerId": "c162",
+          "victimId": "c195",
           "place": 128
         },
         {
-          "killerId": "c017",
-          "victimId": "c100",
+          "killerId": "c176",
+          "victimId": "c035",
           "place": 127
         },
         {
-          "killerId": "c123",
-          "victimId": "c103",
+          "killerId": "c146",
+          "victimId": "c091",
           "place": 126
         },
         {
-          "killerId": "c197",
-          "victimId": "c121",
+          "killerId": "c058",
+          "victimId": "c113",
           "place": 125
         },
         {
-          "killerId": "c189",
-          "victimId": "c050",
+          "killerId": "c089",
+          "victimId": "c029",
           "place": 124
         },
         {
-          "killerId": "c061",
-          "victimId": "c122",
+          "killerId": "c130",
+          "victimId": "c181",
           "place": 123
         },
         {
-          "killerId": "c160",
-          "victimId": "c056",
+          "killerId": "c134",
+          "victimId": "c123",
           "place": 122
         },
         {
-          "killerId": "c061",
-          "victimId": "c047",
+          "killerId": "c165",
+          "victimId": "c134",
           "place": 121
         },
         {
-          "killerId": "c045",
-          "victimId": "c078",
+          "killerId": "c161",
+          "victimId": "c100",
           "place": 120
         },
         {
-          "killerId": "c132",
-          "victimId": "c102",
+          "killerId": "c167",
+          "victimId": "c161",
           "place": 119
         },
         {
-          "killerId": "c172",
-          "victimId": "c134",
+          "killerId": "c028",
+          "victimId": "c154",
           "place": 118
         },
         {
-          "killerId": "c059",
-          "victimId": "c194",
+          "killerId": "c104",
+          "victimId": "c169",
           "place": 117
         },
         {
-          "killerId": "c092",
-          "victimId": "c180",
+          "killerId": "c002",
+          "victimId": "c020",
           "place": 116
         },
         {
-          "killerId": "c074",
-          "victimId": "c136",
+          "killerId": "c069",
+          "victimId": "c128",
           "place": 115
         },
         {
-          "killerId": "c017",
-          "victimId": "c018",
+          "killerId": "c002",
+          "victimId": "c023",
           "place": 114
         },
         {
-          "killerId": "c189",
-          "victimId": "c059",
+          "killerId": "c004",
+          "victimId": "c182",
           "place": 113
         },
         {
-          "killerId": "c039",
-          "victimId": "c053",
+          "killerId": "c165",
+          "victimId": "c143",
           "place": 112
         },
         {
-          "killerId": "c188",
-          "victimId": "c168",
+          "killerId": "c191",
+          "victimId": "c173",
           "place": 111
         },
         {
-          "killerId": "c149",
-          "victimId": "c063",
+          "killerId": "c198",
+          "victimId": "c028",
           "place": 110
         },
         {
-          "killerId": "c030",
-          "victimId": "c079",
+          "killerId": "c057",
+          "victimId": "c026",
           "place": 109
         },
         {
-          "killerId": "c151",
-          "victimId": "c017",
+          "killerId": "c121",
+          "victimId": "c008",
           "place": 108
         },
         {
-          "killerId": "c046",
-          "victimId": "c033",
+          "killerId": "c126",
+          "victimId": "c061",
           "place": 107
         },
         {
-          "killerId": "c143",
-          "victimId": "c140",
+          "killerId": "c088",
+          "victimId": "c199",
           "place": 106
         },
         {
-          "killerId": "c045",
-          "victimId": "c167",
+          "killerId": "c046",
+          "victimId": "c157",
           "place": 105
         },
         {
-          "killerId": "c016",
-          "victimId": "c132",
+          "killerId": "c186",
+          "victimId": "c050",
           "place": 104
         },
         {
-          "killerId": "c022",
-          "victimId": "c162",
+          "killerId": "c171",
+          "victimId": "c043",
           "place": 103
         },
         {
-          "killerId": "c041",
-          "victimId": "c118",
+          "killerId": "c127",
+          "victimId": "c152",
           "place": 102
         },
         {
-          "killerId": "c138",
-          "victimId": "c110",
+          "killerId": "c168",
+          "victimId": "c135",
           "place": 101
         },
         {
-          "killerId": "c039",
-          "victimId": "c004",
+          "killerId": "c168",
+          "victimId": "c165",
           "place": 100
         },
         {
-          "killerId": "c155",
-          "victimId": "c046",
+          "killerId": "c058",
+          "victimId": "c104",
           "place": 99
         },
         {
-          "killerId": "c061",
-          "victimId": "c030",
+          "killerId": "c101",
+          "victimId": "c127",
           "place": 98
         },
         {
-          "killerId": "c174",
-          "victimId": "c164",
+          "killerId": "c190",
+          "victimId": "c015",
           "place": 97
         },
         {
-          "killerId": "c120",
-          "victimId": "c070",
+          "killerId": "c186",
+          "victimId": "c041",
           "place": 96
         },
         {
-          "killerId": "c111",
-          "victimId": "c159",
+          "killerId": "c101",
+          "victimId": "c077",
           "place": 95
         },
         {
-          "killerId": "c068",
-          "victimId": "c111",
+          "killerId": "c164",
+          "victimId": "c011",
           "place": 94
         },
         {
-          "killerId": "c155",
-          "victimId": "c065",
+          "killerId": "c067",
+          "victimId": "c108",
           "place": 93
         },
         {
-          "killerId": "c006",
-          "victimId": "c081",
+          "killerId": "c079",
+          "victimId": "c016",
           "place": 92
         },
         {
-          "killerId": "c139",
-          "victimId": "c068",
+          "killerId": "c148",
+          "victimId": "c191",
           "place": 91
         },
         {
-          "killerId": "c086",
-          "victimId": "c092",
+          "killerId": "c185",
+          "victimId": "c049",
           "place": 90
         },
         {
-          "killerId": "c061",
-          "victimId": "c139",
+          "killerId": "c075",
+          "victimId": "c158",
           "place": 89
         },
         {
-          "killerId": "c045",
-          "victimId": "c198",
+          "killerId": "c071",
+          "victimId": "c084",
           "place": 88
         },
         {
-          "killerId": "c039",
-          "victimId": "c032",
+          "killerId": "c149",
+          "victimId": "c190",
           "place": 87
         },
         {
-          "killerId": "c057",
-          "victimId": "c054",
+          "killerId": "c098",
+          "victimId": "c079",
           "place": 86
         },
         {
-          "killerId": "c188",
-          "victimId": "c019",
+          "killerId": "c176",
+          "victimId": "c120",
           "place": 85
         },
         {
-          "killerId": "c022",
-          "victimId": "c101",
+          "killerId": "c036",
+          "victimId": "c062",
           "place": 84
         },
         {
-          "killerId": "c188",
-          "victimId": "c090",
+          "killerId": "c098",
+          "victimId": "c146",
           "place": 83
         },
         {
-          "killerId": "c076",
-          "victimId": "c016",
+          "killerId": "c024",
+          "victimId": "c176",
           "place": 82
         },
         {
-          "killerId": "c005",
-          "victimId": "c061",
+          "killerId": "c014",
+          "victimId": "c119",
           "place": 81
         },
         {
-          "killerId": "c099",
-          "victimId": "c197",
+          "killerId": "c064",
+          "victimId": "c001",
           "place": 80
         },
         {
-          "killerId": "c045",
-          "victimId": "c066",
+          "killerId": "c088",
+          "victimId": "c187",
           "place": 79
         },
         {
-          "killerId": "c155",
-          "victimId": "c143",
+          "killerId": "c046",
+          "victimId": "c196",
           "place": 78
         },
         {
-          "killerId": "c123",
-          "victimId": "c115",
+          "killerId": "c057",
+          "victimId": "c168",
           "place": 77
         },
         {
-          "killerId": "c105",
-          "victimId": "c104",
+          "killerId": "c096",
+          "victimId": "c088",
           "place": 76
         },
         {
-          "killerId": "c138",
-          "victimId": "c086",
+          "killerId": "c121",
+          "victimId": "c090",
           "place": 75
         },
         {
-          "killerId": "c196",
-          "victimId": "c123",
+          "killerId": "c064",
+          "victimId": "c185",
           "place": 74
         },
         {
-          "killerId": "c098",
-          "victimId": "c038",
+          "killerId": "c057",
+          "victimId": "c184",
           "place": 73
         },
         {
-          "killerId": "c043",
-          "victimId": "c097",
+          "killerId": "c125",
+          "victimId": "c124",
           "place": 72
         },
         {
-          "killerId": "c006",
-          "victimId": "c200",
+          "killerId": "c067",
+          "victimId": "c002",
           "place": 71
         },
         {
-          "killerId": "c109",
-          "victimId": "c188",
+          "killerId": "c116",
+          "victimId": "c005",
           "place": 70
         },
         {
-          "killerId": "c142",
-          "victimId": "c190",
+          "killerId": "c193",
+          "victimId": "c054",
           "place": 69
         },
         {
-          "killerId": "c044",
-          "victimId": "c156",
+          "killerId": "c193",
+          "victimId": "c164",
           "place": 68
         },
         {
-          "killerId": "c080",
-          "victimId": "c114",
+          "killerId": "c004",
+          "victimId": "c193",
           "place": 67
         },
         {
-          "killerId": "c149",
-          "victimId": "c155",
+          "killerId": "c174",
+          "victimId": "c167",
           "place": 66
         },
         {
-          "killerId": "c195",
-          "victimId": "c052",
+          "killerId": "c115",
+          "victimId": "c125",
           "place": 65
         },
         {
-          "killerId": "c027",
-          "victimId": "c034",
+          "killerId": "c083",
+          "victimId": "c071",
           "place": 64
         },
         {
-          "killerId": "c169",
-          "victimId": "c186",
+          "killerId": "c059",
+          "victimId": "c064",
           "place": 63
         },
         {
-          "killerId": "c195",
-          "victimId": "c151",
+          "killerId": "c101",
+          "victimId": "c114",
           "place": 62
         },
         {
-          "killerId": "c076",
-          "victimId": "c041",
+          "killerId": "c126",
+          "victimId": "c057",
           "place": 61
         },
         {
-          "killerId": "c113",
-          "victimId": "c145",
+          "killerId": "c024",
+          "victimId": "c098",
           "place": 60
         },
         {
-          "killerId": "c149",
-          "victimId": "c008",
+          "killerId": "c121",
+          "victimId": "c048",
           "place": 59
         },
         {
-          "killerId": "c160",
-          "victimId": "c085",
+          "killerId": "c030",
+          "victimId": "c101",
           "place": 58
         },
         {
-          "killerId": "c060",
-          "victimId": "c138",
+          "killerId": "c159",
+          "victimId": "c007",
           "place": 57
         },
         {
-          "killerId": "c039",
-          "victimId": "c107",
+          "killerId": "c085",
+          "victimId": "c189",
           "place": 56
         },
         {
-          "killerId": "c099",
-          "victimId": "c105",
+          "killerId": "c162",
+          "victimId": "c130",
           "place": 55
         },
         {
-          "killerId": "c088",
-          "victimId": "c006",
+          "killerId": "c159",
+          "victimId": "c040",
           "place": 54
         },
         {
-          "killerId": "c189",
-          "victimId": "c141",
+          "killerId": "c156",
+          "victimId": "c018",
           "place": 53
         },
         {
-          "killerId": "c005",
-          "victimId": "c131",
+          "killerId": "c153",
+          "victimId": "c059",
           "place": 52
         },
         {
-          "killerId": "c005",
-          "victimId": "c117",
+          "killerId": "c063",
+          "victimId": "c030",
           "place": 51
         },
         {
-          "killerId": "c113",
-          "victimId": "c048",
+          "killerId": "c103",
+          "victimId": "c068",
           "place": 50
         },
         {
-          "killerId": "c108",
-          "victimId": "c195",
+          "killerId": "c153",
+          "victimId": "c192",
           "place": 49
         },
         {
-          "killerId": "c037",
-          "victimId": "c189",
+          "killerId": "c121",
+          "victimId": "c058",
           "place": 48
         },
         {
-          "killerId": "c080",
-          "victimId": "c120",
+          "killerId": "c149",
+          "victimId": "c174",
           "place": 47
         },
         {
-          "killerId": "c178",
-          "victimId": "c183",
+          "killerId": "c103",
+          "victimId": "c118",
           "place": 46
         },
         {
-          "killerId": "c178",
-          "victimId": "c142",
+          "killerId": "c085",
+          "victimId": "c107",
           "place": 45
         },
         {
-          "killerId": "c087",
-          "victimId": "c172",
+          "killerId": "c056",
+          "victimId": "c009",
           "place": 44
         },
         {
-          "killerId": "c057",
-          "victimId": "c005",
+          "killerId": "c024",
+          "victimId": "c014",
           "place": 43
         },
         {
-          "killerId": "c080",
-          "victimId": "c057",
+          "killerId": "c180",
+          "victimId": "c126",
           "place": 42
         },
         {
-          "killerId": "c161",
-          "victimId": "c080",
+          "killerId": "c159",
+          "victimId": "c148",
           "place": 41
         },
         {
-          "killerId": "c158",
-          "victimId": "c108",
+          "killerId": "c103",
+          "victimId": "c065",
           "place": 40
         },
         {
-          "killerId": "c062",
-          "victimId": "c045",
+          "killerId": "c063",
+          "victimId": "c103",
           "place": 39
         },
         {
-          "killerId": "c087",
-          "victimId": "c044",
+          "killerId": "c083",
+          "victimId": "c180",
           "place": 38
         },
         {
-          "killerId": "c099",
-          "victimId": "c076",
+          "killerId": "c089",
+          "victimId": "c096",
           "place": 37
-        },
-        {
-          "killerId": "c064",
-          "victimId": "c073",
-          "place": 36
-        },
-        {
-          "killerId": "c084",
-          "victimId": "c178",
-          "place": 35
-        },
-        {
-          "killerId": "c060",
-          "victimId": "c175",
-          "place": 34
-        },
-        {
-          "killerId": "c087",
-          "victimId": "c062",
-          "place": 33
-        },
-        {
-          "killerId": "c144",
-          "victimId": "c161",
-          "place": 32
-        },
-        {
-          "killerId": "c075",
-          "victimId": "c196",
-          "place": 31
-        },
-        {
-          "killerId": "c149",
-          "victimId": "c014",
-          "place": 30
-        },
-        {
-          "killerId": "c149",
-          "victimId": "c144",
-          "place": 29
-        },
-        {
-          "killerId": "c084",
-          "victimId": "c039",
-          "place": 28
-        },
-        {
-          "killerId": "c027",
-          "victimId": "c088",
-          "place": 27
-        },
-        {
-          "killerId": "c043",
-          "victimId": "c027",
-          "place": 26
-        },
-        {
-          "killerId": "c169",
-          "victimId": "c043",
-          "place": 25
-        },
-        {
-          "killerId": "c135",
-          "victimId": "c099",
-          "place": 24
-        },
-        {
-          "killerId": "c023",
-          "victimId": "c169",
-          "place": 23
-        },
-        {
-          "killerId": "c113",
-          "victimId": "c149",
-          "place": 22
-        },
-        {
-          "killerId": "c025",
-          "victimId": "c098",
-          "place": 21
-        },
-        {
-          "killerId": "c001",
-          "victimId": "c174",
-          "place": 20
-        },
-        {
-          "killerId": "c135",
-          "victimId": "c158",
-          "place": 19
-        },
-        {
-          "killerId": "c160",
-          "victimId": "c075",
-          "place": 18
-        },
-        {
-          "killerId": "c022",
-          "victimId": "c135",
-          "place": 17
-        },
-        {
-          "killerId": "c037",
-          "victimId": "c025",
-          "place": 16
-        },
-        {
-          "killerId": "c037",
-          "victimId": "c022",
-          "place": 15
-        },
-        {
-          "killerId": "c095",
-          "victimId": "c074",
-          "place": 14
-        },
-        {
-          "killerId": "c095",
-          "victimId": "c109",
-          "place": 13
-        },
-        {
-          "killerId": "c037",
-          "victimId": "c051",
-          "place": 12
-        },
-        {
-          "killerId": "c037",
-          "victimId": "c160",
-          "place": 11
-        },
-        {
-          "killerId": "c037",
-          "victimId": "c064",
-          "place": 10
-        },
-        {
-          "killerId": "c037",
-          "victimId": "c023",
-          "place": 9
         },
         {
           "killerId": "c095",
           "victimId": "c037",
+          "place": 36
+        },
+        {
+          "killerId": "c153",
+          "victimId": "c067",
+          "place": 35
+        },
+        {
+          "killerId": "c083",
+          "victimId": "c046",
+          "place": 34
+        },
+        {
+          "killerId": "c137",
+          "victimId": "c162",
+          "place": 33
+        },
+        {
+          "killerId": "c024",
+          "victimId": "c085",
+          "place": 32
+        },
+        {
+          "killerId": "c116",
+          "victimId": "c137",
+          "place": 31
+        },
+        {
+          "killerId": "c198",
+          "victimId": "c171",
+          "place": 30
+        },
+        {
+          "killerId": "c179",
+          "victimId": "c024",
+          "place": 29
+        },
+        {
+          "killerId": "c083",
+          "victimId": "c093",
+          "place": 28
+        },
+        {
+          "killerId": "c150",
+          "victimId": "c004",
+          "place": 27
+        },
+        {
+          "killerId": "c179",
+          "victimId": "c116",
+          "place": 26
+        },
+        {
+          "killerId": "c063",
+          "victimId": "c150",
+          "place": 25
+        },
+        {
+          "killerId": "c075",
+          "victimId": "c056",
+          "place": 24
+        },
+        {
+          "killerId": "c153",
+          "victimId": "c069",
+          "place": 23
+        },
+        {
+          "killerId": "c172",
+          "victimId": "c122",
+          "place": 22
+        },
+        {
+          "killerId": "c083",
+          "victimId": "c063",
+          "place": 21
+        },
+        {
+          "killerId": "c172",
+          "victimId": "c060",
+          "place": 20
+        },
+        {
+          "killerId": "c121",
+          "victimId": "c198",
+          "place": 19
+        },
+        {
+          "killerId": "c121",
+          "victimId": "c078",
+          "place": 18
+        },
+        {
+          "killerId": "c179",
+          "victimId": "c083",
+          "place": 17
+        },
+        {
+          "killerId": "c153",
+          "victimId": "c194",
+          "place": 16
+        },
+        {
+          "killerId": "c036",
+          "victimId": "c089",
+          "place": 15
+        },
+        {
+          "killerId": "c172",
+          "victimId": "c075",
+          "place": 14
+        },
+        {
+          "killerId": "c036",
+          "victimId": "c080",
+          "place": 13
+        },
+        {
+          "killerId": "c153",
+          "victimId": "c149",
+          "place": 12
+        },
+        {
+          "killerId": "c172",
+          "victimId": "c153",
+          "place": 11
+        },
+        {
+          "killerId": "c115",
+          "victimId": "c179",
+          "place": 10
+        },
+        {
+          "killerId": "c186",
+          "victimId": "c156",
+          "place": 9
+        },
+        {
+          "killerId": "c042",
+          "victimId": "c115",
           "place": 8
         },
         {
-          "killerId": "c001",
-          "victimId": "c113",
+          "killerId": "c172",
+          "victimId": "c121",
           "place": 7
         },
         {
-          "killerId": "c060",
-          "victimId": "c087",
+          "killerId": "c036",
+          "victimId": "c159",
           "place": 6
         },
         {
-          "killerId": "c171",
-          "victimId": "c001",
+          "killerId": "c042",
+          "victimId": "c186",
           "place": 5
         },
         {
-          "killerId": "c171",
-          "victimId": "c060",
+          "killerId": "c172",
+          "victimId": "c042",
           "place": 4
         },
         {
-          "killerId": "c095",
-          "victimId": "c171",
+          "killerId": "c172",
+          "victimId": "c036",
           "place": 3
         },
         {
-          "killerId": "c095",
-          "victimId": "c084",
+          "killerId": "c172",
+          "victimId": "c095",
           "place": 2
         }
       ]
